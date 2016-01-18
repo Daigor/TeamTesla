@@ -7,7 +7,7 @@ angular.module('user.factory', [])
 
   var loggedIn = false;
 
-  var apiUrl = 'http://secure-castle-2561.herokuapp.com';
+  var apiUrl = 'http://localhost:5007';
 // 'http://localhost:5007'
 // 'http://secure-castle-2561.herokuapp.com';
   /*

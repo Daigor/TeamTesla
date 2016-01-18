@@ -9,7 +9,7 @@ angular.module('which.factory', [])
 
   $http.defaults.headers.common.Authorization = 'Bearer' + token;
 
-  var serverURI = 'http://secure-castle-2561.herokuapp.com';
+  var serverURI = 'http://localhost:5007';
 //   'http://localhost:5007';
 // 'http://secure-castle-2561.herokuapp.com';
 
