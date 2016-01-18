@@ -4,7 +4,7 @@ var express  = require('express'),
 
 var app = express();
 var port = process.env.PORT || 5007;
-var databaseLocation = 'mongodb://c:c1d2@apollo.modulusmongo.net:27017/zIg4upod'
+var databaseLocation = 'mongodb://allan:pass@apollo.modulusmongo.net:27017/Irih9ozy'
 
 // 'mongodb://c:c1d2@apollo.modulusmongo.net:27017/zIg4upod'
 // 'mongodb://localhost/testdb';
